@@ -1,5 +1,5 @@
 [[plugins]]
-  package = "netlify-plugin-cloudinary"
+  package = "netlify-plugin-imagekit"
 
   [plugins.inputs]
-  cloudName = "daz1w86h9"
+  urlEndpoint = "https://ik.imagekit.io/a1yisxurxo/proxy/"
