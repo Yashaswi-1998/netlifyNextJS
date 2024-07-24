@@ -1,9 +1,0 @@
-.env
-.eslintignore
-.eslintrc.cjs
-.prettierignore
-.prettierrc
-.setTestEnvVars.js
-node_modules
-src
-tsconfig.json
